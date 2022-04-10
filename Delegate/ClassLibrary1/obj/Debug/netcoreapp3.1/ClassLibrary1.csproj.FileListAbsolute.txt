@@ -1,0 +1,10 @@
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.deps.json
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\HardSoft\source\repos\Delegate\ClassLibrary1\obj\Debug\netcoreapp3.1\ClassLibrary1.pdb
